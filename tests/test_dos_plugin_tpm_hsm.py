@@ -1,5 +1,6 @@
-from dos_plugin_tpm_hsm import HardwareSigner, Pkcs11Signer
 import pytest
+
+from dos_plugin_tpm_hsm import HardwareSigner, Pkcs11Signer
 
 
 def test_signer_matches_protocol_shape():

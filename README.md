@@ -3,6 +3,10 @@
 Hardware-backed signing seam (TPM / HSM / PKCS#11 / secure enclave) for the
 Decision OS / AuthGate stack.
 
+> Part of the Decision OS — governed by the Legitimacy ⊥ Authority pipeline
+> (FDK legitimacy → AuthGate authority). Plugins are advisory only and hold
+> **no authority**; the kernel remains the single authority.
+
 **Status: interface-only (Protocol + honest stub).**
 
 ## What it does

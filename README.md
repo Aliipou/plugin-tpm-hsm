@@ -1,5 +1,7 @@
 # plugin-tpm-hsm
 
+**Live (graph):** [https://ali-plugin-tpm-hsm.vercel.app](https://ali-plugin-tpm-hsm.vercel.app)
+
 Hardware-backed signing seam (TPM / HSM / PKCS#11 / secure enclave) for the
 Decision OS / AuthGate stack.
 
